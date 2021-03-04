@@ -1,15 +1,16 @@
-id: opecha:P000426
+id: P000426
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD234
   title: རང་བཞིན་སློབ་གསོའི་མན་ངག
-  volume:
+  author: ''
+  volumes:
     ca5c058c371545d8b8e4616aed9649a7:
       image_group_id: I4PD4630
       title: Volume 1 of rang bzhin slob gso'i man ngag
       volume_number: 1
       total_pages: 366
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རང་བཞིན་སློབ་གསོའི་མན་ངག
   author: ''
